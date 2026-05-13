@@ -10,7 +10,7 @@ Progress tracked on [Beecrowd](https://www.beecrowd.com.br/) — problems range 
 
 ```
 competitive-programming/
-├── 01-foundations/        # I/O, arithmetic, conditionals, loops
+├── 01-Beginners/        # I/O, arithmetic, conditionals, loops
 ├── 02-arrays-strings/     # Vectors, matrices, string manipulation
 ├── 03-math/               # Number theory, GCD/LCM, modular arithmetic
 ├── 04-sorting-search/     # Sorting, binary search, STL algorithms
