@@ -50,7 +50,7 @@ int main() {
 
 | Category              | Problems solved |
 |-----------------------|-----------------|
-| Foundations           | 0               |
+| Beginners             | 12              |
 | Arrays & strings      | 0               |
 | Math                  | 0               |
 | Sorting & search      | 0               |
