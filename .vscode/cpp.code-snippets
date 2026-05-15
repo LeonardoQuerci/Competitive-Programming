@@ -1,0 +1,19 @@
+{
+  "Template C++": {
+    "prefix": "cpp",
+    "body": [
+      "#include <iostream>",
+      "#include <iomanip>",
+      "",
+      "using namespace std;",
+      "",
+      "int main(){",
+      "\tios_base::sync_with_stdio(false);",
+      "\tcin.tie(NULL);",
+      "",
+      "\treturn 0;",
+      "}"
+    ],
+    "description": "Template C++"
+  }
+}
